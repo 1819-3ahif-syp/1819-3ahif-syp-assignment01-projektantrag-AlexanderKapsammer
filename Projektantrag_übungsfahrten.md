@@ -10,7 +10,8 @@ Die Methode, die Übungsfahrten auf einem Blatt Papier aufzuschreiben ist aufwen
 ### Ergebnis:
 Eine benutzerfreundliche und funktionierende App.
 
-### Fahrschüler sollen einen besseren Überblick über ihren Fortschritt haben und weniger Zeit brauchen, um ihre Übungsfahrten mitprotokollieren zu können.
+### Ziel
+Fahrschüler sollen einen besseren Überblick über ihren Fortschritt haben und weniger Zeit brauchen, um ihre Übungsfahrten mitprotokollieren zu können.
 
 ### Auftraggeber: Thomas Stütz
 ### Projektleiter: Alexander Kapsammer
